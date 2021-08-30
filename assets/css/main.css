@@ -2703,7 +2703,7 @@ input, select, textarea {
 			display: inline-block;
 			padding-right: 2.5em;
 			vertical-align: middle;
-			width: 25%;
+			width: 30%;
 		}
 
 			.features2 article .image img {
@@ -2714,7 +2714,7 @@ input, select, textarea {
 		.features2 article .inner {
 			display: inline-block;
 			vertical-align: middle;
-			width: 73%;
+			width: 68%;
 		}
 
 			.features2 article .inner > :last-child {
